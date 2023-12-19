@@ -1,6 +1,6 @@
 # Elementor-icon-list
 
-'eicon-editor-link' => 'eicon-editor-link',
+'eicon-editor-link' => 'eicon-editor-link',<br>
 'eicon-editor-unlink' => 'eicon-editor-unlink',
 'eicon-editor-external-link' => 'eicon-editor-external-link',
 'eicon-editor-close' => 'eicon-editor-close',
