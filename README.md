@@ -329,3 +329,5 @@
 'eicon-minus-circle' => 'eicon-minus-circle',<br>
 'eicon-minus-circle-o' => 'eicon-minus-circle-o',<br>
 'eicon-code-bold' => 'eicon-code-bold',								<br>				
+
+<h3 href="https://elementor.github.io/elementor-icons/">Here is the all icon list</h3>
